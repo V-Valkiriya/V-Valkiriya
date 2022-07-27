@@ -1,3 +1,5 @@
+![game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 # Hello! My name is Valeriya.
 
 ![github trophy](https://github-profile-trophy.vercel.app/?username=v-valkiriya&theme=dracula)
