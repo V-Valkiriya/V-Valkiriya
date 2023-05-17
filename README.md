@@ -1,6 +1,6 @@
 ![start](https://cdn.discordapp.com/attachments/1103386023741902961/1108440552480977067/IMG_0344.JPG)
 
-# Hoi! My name is Valeriya.
+## Hoi! My name is Valeriya.
 > I'm junior frontend developer. Graduate of the "Hack Your Future" web development school. Not a day without code.
 
 ## Skills
@@ -22,8 +22,22 @@
 ![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 
-
-
 ## My current goals to achieve
 ![V-Valkiriya's GitHub status](https://github-readme-stats.vercel.app/api?username=V-Valkiriya&theme=outrun&show_icons=true)
+
+### About me
+
+>- I came from Ukraine because war.
+>- University education in advertising, but I like programming more.
+>- Volunteer in "Rescue Now" organizathion. Assistance and guardianship of the elderly and disabled.
+>- I love animals very much. Vegetarian.
+>- My hobbies are cultural studies, philosophy and astronomy.
+>- My rest is traveling and mountain hiking.
+>- My dream is to implement a project to find Nederland owners for Ukrainian abandoned dogs.
+
+
+### Contact Me
+- Email: altufasu17@gmail.com
+- LinkedIn: [Valeriya](linkedin.com/in/valeriya-semenova-4b7474266)
+
 
