@@ -1,7 +1,7 @@
 ![start](https://cdn.discordapp.com/attachments/1103386023741902961/1108440552480977067/IMG_0344.JPG)
 
 ## Hoi! My name is Valeriya.
-> I'm junior frontend developer. Graduate of the "Hack Your Future" web development school. Not a day without code.
+> I'm junior frontend developer. Graduate of the "Hack Your Future" web development school. Not a day without code. Open for job offers.
 
 ## Skills
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
