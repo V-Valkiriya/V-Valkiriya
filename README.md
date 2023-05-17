@@ -1,6 +1,6 @@
 
 
-# Hoi! I`m Valeriya.
+# Hoi! My name is Valeriya.
 > I'm junior frontend developer. Graduate of the "Hack Your Future" web development school. Not a day without code.
 
 ## Skills
@@ -12,7 +12,16 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Netlify](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Ionic](https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/photoshop-5A29E4?style=for-the-badge&logo=photoshop&logoColor=white)
+
 
 ## My current goals to achieve
-![V-Valkiriya's GitHub status](https://github-readme-stats.vercel.app/api?username=V-Valkiriya&theme=onedark&show_icons=true)
+![V-Valkiriya's GitHub status](https://github-readme-stats.vercel.app/api?username=V-Valkiriya&theme=outrun&show_icons=true)
+
