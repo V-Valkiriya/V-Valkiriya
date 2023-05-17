@@ -1,4 +1,4 @@
-
+![start](https://cdn.discordapp.com/attachments/1103386023741902961/1108440552480977067/IMG_0344.JPG)
 
 # Hoi! My name is Valeriya.
 > I'm junior frontend developer. Graduate of the "Hack Your Future" web development school. Not a day without code.
@@ -17,9 +17,11 @@
 ![Strapi](https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Ionic](https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe_photoshop-5A29E4?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/photoshop-5A29E4?style=for-the-badge&logo=photoshop&logoColor=white)
+
+
 
 
 ## My current goals to achieve
