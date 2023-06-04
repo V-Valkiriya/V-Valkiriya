@@ -30,7 +30,7 @@
 ### About me
 
 >- I came from Ukraine because war.
->- University education in advertising, but I like programming more.
+>- Higher university education in advertising, but I like programming more.
 >- Volunteer in "Rescue Now" organizathion. Assistance and guardianship of the elderly and disabled.
 >- I love animals very much. Vegetarian.
 >- My hobbies are cultural studies, philosophy and astronomy.
