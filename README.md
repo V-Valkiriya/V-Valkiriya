@@ -20,6 +20,8 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe_photoshop-5A29E4?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Babel](https://img.shields.io/badge/babel-5A29E4?style=for-the-badge&logo=babel&logoColor=white)
+![Core.js](https://img.shields.io/badge/corejs-5A29E4?style=for-the-badge&logo=corejs&logoColor=white)
 
 
 ## My current goals to achieve
