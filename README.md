@@ -22,6 +22,8 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe_photoshop-5A29E4?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-00C7B7?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 
 ## My current goals to achieve
