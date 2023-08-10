@@ -34,7 +34,7 @@
 >- I came from Ukraine because war.
 >- Higher university education in advertising, but I like programming more.
 >- Volunteer in "Rescue Now" organizathion. Assistance and guardianship of the elderly and disabled.
->- I love animals very much. Vegetarian.
+>- I love animals very much.
 >- My hobbies are cultural studies, philosophy and astronomy.
 >- My rest is traveling and mountain hiking.
 >- My dream is to implement a project to find Nederland owners for Ukrainian abandoned dogs.
